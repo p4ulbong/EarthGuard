@@ -17,6 +17,10 @@ Projects:
 - Neuralyzer
 - Memory-Tracking
 - [ ] Write up
+- [ ] Prove the Math
 - Death-Swarm
+- [ ] Write Up
 - Easy-Cluster-Tools
+- [ ] Write Up
+- [ ] Structure analysis
 - Guard-Transformer
