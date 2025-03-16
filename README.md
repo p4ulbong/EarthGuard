@@ -24,6 +24,8 @@ Projects:
 - [ ] Write Up
 - [ ] Structure analysis
 - Guard-Transformer
+- AI OS
+- AI Language
 - AI Level 1
 - AI Level 2
 - AI Level 3
