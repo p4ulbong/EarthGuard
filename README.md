@@ -19,6 +19,10 @@ To achieve this level of AGI, we have to abandon the parrot-bot used by LLMs and
 - [ ] Add the math to show how it works
 - [ ] Prove the math if possible
 
+- AI OS
+To allow an AGI program to be as powerful as it can be, the OS has to get out of the way and only provide the absolute minimum services.  This might be a good OS to make using micro-services.
+- [ ] Better Write Up
+
 - AI-Defender
 - AI-Attacker
 - Neuralyzer
@@ -33,6 +37,5 @@ To achieve this level of AGI, we have to abandon the parrot-bot used by LLMs and
 - Guard-Transformer
 - AI OS
 - AI Language
-- AI Level 1
 - AI Level 2
 - AI Level 3
