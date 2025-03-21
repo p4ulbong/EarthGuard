@@ -11,7 +11,14 @@ p4ulbong/p4ulbong is a ✨ special ✨ repository because its `README.md` (this 
 You can click the Preview link to take a look at your changes.
 --->
 
-Projects:
+# Projects:
+
+- AI Level 1
+To achieve this level of AGI, we have to abandon the parrot-bot used by LLMs and their breathren and move on to a new paradigm that allows the AI to actually learn new information, build stronger connections for more important informationm layer the information on top of "neurons" like the human brain does and only retain the information that is important and cannot be retrieved/relearned.
+- [ ] Better write up
+- [ ] Add the math to show how it works
+- [ ] Prove the math if possible
+
 - AI-Defender
 - AI-Attacker
 - Neuralyzer
