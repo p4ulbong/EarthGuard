@@ -23,6 +23,10 @@ To achieve this level of AGI, we have to abandon the parrot-bot used by LLMs and
 To allow an AGI program to be as powerful as it can be, the OS has to get out of the way and only provide the absolute minimum services.  This might be a good OS to make using micro-services.
 - [ ] Better Write Up
 
+- Highly Distributed Filesystem
+A filesystem that can use the extra space on all the computers in an area maintaining a RAID1/RAID5 layout.  Included are an evacuate option to get the data off a drive/computer for upgrade/maintenance/replacement
+- [ ] Write Up
+
 - AI-Defender
 - AI-Attacker
 - Neuralyzer
@@ -35,7 +39,6 @@ To allow an AGI program to be as powerful as it can be, the OS has to get out of
 - [ ] Write Up
 - [ ] Structure analysis
 - Guard-Transformer
-- AI OS
 - AI Language
 - AI Level 2
 - AI Level 3
