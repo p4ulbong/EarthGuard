@@ -27,6 +27,11 @@ To allow an AGI program to be as powerful as it can be, the OS has to get out of
 A filesystem that can use the extra space on all the computers in an area maintaining a RAID1/RAID5 layout.  Included are an evacuate option to get the data off a drive/computer for upgrade/maintenance/replacement
 - [ ] Write Up
 
+- AI Language
+In order to make it possible to program an AGI entity, there will need to be a programming language with the fundamental building blocks the fit with the paradigm.
+- [ ] Write Up
+- [ ] Syntax
+
 - AI-Defender
 - AI-Attacker
 - Neuralyzer
@@ -39,6 +44,5 @@ A filesystem that can use the extra space on all the computers in an area mainta
 - [ ] Write Up
 - [ ] Structure analysis
 - Guard-Transformer
-- AI Language
 - AI Level 2
 - AI Level 3
