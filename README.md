@@ -36,6 +36,10 @@ In order to make it possible to program an AGI entity, there will need to be a p
 If the software field doesn't get it's act together and put some kind of a certification system in place similar to other engineering practices, the governments of the world will do it and they have a horrible track record for picking the best singular operating system, language and tools.
 - [ ] Write Up
 
+- Easy Cluster Comunication Tools
+A set of libraries that aid in the communication, file tranfer and state change that needs to take place when a application cluster needs the parts of the cluster to interact.
+- [ ] Write Up 
+   
 - AI-Defender
 - AI-Attacker
 - Neuralyzer
@@ -50,3 +54,4 @@ If the software field doesn't get it's act together and put some kind of a certi
 - Guard-Transformer
 - AI Level 2
 - AI Level 3
+- 
