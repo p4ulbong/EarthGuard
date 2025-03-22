@@ -32,6 +32,10 @@ In order to make it possible to program an AGI entity, there will need to be a p
 - [ ] Write Up
 - [ ] Syntax
 
+- Certification Idea
+If the software field doesn't get it's act together and put some kind of a certification system in place similar to other engineering practices, the governments of the world will do it and they have a horrible track record for picking the best singular operating system, language and tools.
+- [ ] Write Up
+
 - AI-Defender
 - AI-Attacker
 - Neuralyzer
