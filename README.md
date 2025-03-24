@@ -39,6 +39,11 @@ If the software field doesn't get it's act together and put some kind of a certi
 - Easy Cluster Comunication Tools
 A set of libraries that aid in the communication, file tranfer and state change that needs to take place when a application cluster needs the parts of the cluster to interact.
 - [ ] Write Up 
+- [ ] Structure analysis
+
+- Remote Filesystem Metadata Handler
+A method to contain metadata in a distributed filesystem that will allow commands like ls and find to operate 1000x faster
+- [ ] Write Up
    
 - AI-Defender
 - AI-Attacker
@@ -48,9 +53,6 @@ A set of libraries that aid in the communication, file tranfer and state change 
 - [ ] Prove the Math
 - Death-Swarm
 - [ ] Write Up
-- Easy-Cluster-Tools
-- [ ] Write Up
-- [ ] Structure analysis
 - Guard-Transformer
 - AI Level 2
 - AI Level 3
